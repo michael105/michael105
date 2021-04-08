@@ -1,7 +1,8 @@
+<img align="right" height="240px" src="me-320px.png"> 
+
 ### Michael (misc) Myer
 
-<img align="right" height="240px" src="me-320px.png"> 
-<br>
+
 
 [https://michael105.github.com - *Blog, about me*](https://michael105.github.io)
 
