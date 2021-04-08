@@ -1,8 +1,8 @@
 ### Michael (misc) Myer
 
-https://michael105.github.io[https://michael105.github.com - *Blog, about me*]
+[https://michael105.github.com - *Blog, about me*](https://michael105.github.io)
 
-https://gist.github.com/8481222f07035e568d774c4d6e0b51ef[github repository index]
+[github repository index](https://gist.github.com/8481222f07035e568d774c4d6e0b51ef)
 
 <!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=michael105)](https://github.com/anuraghazra/github-readme-stats)
