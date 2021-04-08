@@ -8,6 +8,9 @@
 
 [https://gist.github.com/ - github repository index](https://gist.github.com/8481222f07035e568d774c4d6e0b51ef)
 
+*Fiddling around trying to get a proper layout :/*
+
+*Giving up for now. And going outside.*
 
 <!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=michael105)](https://github.com/anuraghazra/github-readme-stats)
