@@ -17,8 +17,10 @@ linux (posix) conglomeration could be.
 
 Doing some work for a meta distribution.
 
-<!--
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=michael105)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael105&exclude_repo=home,docu-c,libc-manpages,michael105.github.io,weblinks)](https://github.com/anuraghazra/github-readme-stats)
 
