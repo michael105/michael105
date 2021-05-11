@@ -1,8 +1,8 @@
-<img align="right" height="240px" src="me-320px.png"> 
+<!-- <img align="right" height="240px" src="me-320px.png"> 
+-->
 
-### Michael (misc) Myer
+#### Michael (misc) Myer
 
-<br>
 
 *====================================*
 
@@ -12,6 +12,10 @@
 
 *====================================*
 
+Currently researching how small a stable
+linux (posix) conglomeration could be.
+
+Doing some work for a meta distribution.
 
 <!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=michael105)](https://github.com/anuraghazra/github-readme-stats)
