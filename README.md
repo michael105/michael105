@@ -12,7 +12,8 @@
 
 *====================================*
 
-Currently researching how small a stable
+A passionated opensource developer, 
+currently researching how small a usable
 linux (posix) conglomeration could be.
 
 Doing some work for a meta distribution.
