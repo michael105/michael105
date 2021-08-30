@@ -13,11 +13,15 @@
 *====================================*
 
 A passionated opensource developer, 
-currently researching how small a usable
-linux (posix) conglomeration could be.
+currently preparing a minimal Linux distribution,
+now doing some research on statically linking,
+dependency and package management, containerization.
 
-Preparing a meta distribution.
-
+Why cows do fly? 
+Is a secure system possible?
+What's wrong with gcc > 10.0 ?
+My flying sausage is not big enough.
+Make it great again!
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=michael105&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael105&exclude_repo=home,docu-c,libc-manpages,michael105.github.io,weblinks&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
