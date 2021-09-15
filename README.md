@@ -13,7 +13,7 @@
 *====================================*
 
 A passionated opensource developer, 
-currently preparing a minimal statically linked Linux distribution.
+currently preparing a minimal statically linked Linux distribution.<br>
 Currently doing some research on linking,
 dependency and package management, containerization.
 
