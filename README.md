@@ -13,12 +13,10 @@
 *====================================*
 
 A passionated opensource developer, 
-currently preparing a minimal Linux distribution,
-now doing some research on statically linking,
+currently preparing a minimal statically linked Linux distribution.
+Currently doing research on linking,
 dependency and package management, containerization.
 
-Why cows do fly? 
-Is a secure system possible?
 What's wrong with gcc > 10.0 ?
 My flying sausage is not big enough.
 Make it great again!
