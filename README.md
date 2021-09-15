@@ -21,7 +21,7 @@ University graduate, Philosophy and History of Science.(Magister Artium)
 
 My dedication to music and the event area has been handicapped
 a bit by the missing events, so I'm exploring new spaces,
-where I've never been before..
+I've never been before..
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=michael105&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael105&exclude_repo=home,docu-c,libc-manpages,michael105.github.io,weblinks&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
