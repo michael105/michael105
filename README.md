@@ -3,14 +3,16 @@
 
 #### Michael (misc) Myer
 
-
-*====================================*
+<hr>
+<!-- *====================================* -->
 
 [https://michael105.github.com - *Blog, about me*](https://michael105.github.io)
 
 [https://gist.github.com/ - *github repository index*](https://gist.github.com/8481222f07035e568d774c4d6e0b51ef)
 
-*====================================*
+<hr>
+
+<!-- *====================================* -->
 
 A passionated opensource developer, 
 currently preparing a minimal statically linked Linux distribution.<br>
