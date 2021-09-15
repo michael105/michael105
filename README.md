@@ -17,7 +17,7 @@ currently preparing a minimal statically linked Linux distribution.
 Currently doing some research on linking,
 dependency and package management, containerization.
 
-University graduate, Philosophy and History of Science.(Magister Artium)
+University graduate, Philosophy and History of Science. (Magister Artium)
 
 Freelancer. 
 
