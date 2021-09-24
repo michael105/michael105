@@ -18,8 +18,9 @@
 
 A passionated opensource developer, 
 currently preparing a minimal statically linked Linux distribution.<br>
-Currently doing some research on linking,
-dependency and package management, containerization.
+
+Do not disturb me please, I do have to link all these tools so they fit into the cpu's l2 cache@!!
+:( fit them into L1 has been, to be honest, maybe possibly a bit, uuh. well.  
 
 University graduate, Philosophy and History of Science. (Magister Artium)
 
