@@ -37,7 +37,7 @@ I have not seen a cow,
   me a cow is there; <br> for all the cows I ever saw had hoofs...<br>
   (M.Porter: Applied Psychology for Nurses)
 <br>
-<br><br>
+<br>
 <!-- Oh freddled gruntbuggly,
 Thy micturations are to me, (with big yawning)
 As plurdled gabbleblotchits, in midsummer morning
