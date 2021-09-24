@@ -31,12 +31,31 @@ Freelancer.
 
 
 <img align="right" height="240px" src="comics-cow-aliens-reverse-6173535.jpeg"> 
-<br><br>
-** I have not seen a cow, **
+<br>
+I have not seen a cow,
 <br>but only a part which tells
   me a cow is there; <br> for all the cows I ever saw had hoofs...<br>
   (M.Porter: Applied Psychology for Nurses)
-
+<br>
+<br><br>
+Oh freddled gruntbuggly,
+Thy micturations are to me, (with big yawning)
+As plurdled gabbleblotchits, in midsummer morning
+On a lurgid bee,
+That mordiously hath blurted out,
+Its earted jurtles, grumbling
+Into a rancid festering confectious organ squealer.
+(Prostetnic Vogon Jeltz: Collected Poetry)
+<!--
+Now the jurpling slayjid agrocrustles,
+Are slurping hagrilly up the axlegrurts,
+And living glupules frart and stipulate,
+Like jowling meated liverslime,
+Groop, I implore thee, my foonting turlingdromes,
+And hooptiously drangle me,
+With crinkly bindlewurdles,mashurbitries.
+Or else I shall rend thee in the gobberwarts with my blurglecruncheon,
+See if I don't! -->
 
 <!--
 
