@@ -31,10 +31,11 @@ Freelancer.
 
 
 <img align="right" height="240px" src="comics-cow-aliens-reverse-6173535.jpeg"> 
-
-<div align="left" style="float:right"><small>I have not seen a cow, <br>but only a part which tells
+<br><br>
+** I have not seen a cow, **
+<br>but only a part which tells
   me a cow is there; <br> for all the cows I ever saw had hoofs...<br>
-  (M.Porter: Applied Psychology for Nurses)</small></div>
+  (M.Porter: Applied Psychology for Nurses)
 
 
 <!--
