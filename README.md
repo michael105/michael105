@@ -38,7 +38,7 @@ I have not seen a cow,
   (M.Porter: Applied Psychology for Nurses)
 <br>
 <br><br>
-Oh freddled gruntbuggly,
+<!-- Oh freddled gruntbuggly,
 Thy micturations are to me, (with big yawning)
 As plurdled gabbleblotchits, in midsummer morning
 On a lurgid bee,
@@ -46,7 +46,8 @@ That mordiously hath blurted out,
 Its earted jurtles, grumbling
 Into a rancid festering confectious organ squealer.
 (Prostetnic Vogon Jeltz: Collected Poetry)
-<!--
+-->
+
 Now the jurpling slayjid agrocrustles,
 Are slurping hagrilly up the axlegrurts,
 And living glupules frart and stipulate,
@@ -55,7 +56,7 @@ Groop, I implore thee, my foonting turlingdromes,
 And hooptiously drangle me,
 With crinkly bindlewurdles,mashurbitries.
 Or else I shall rend thee in the gobberwarts with my blurglecruncheon,
-See if I don't! -->
+See if I don't! (Prostetnic Vogon Jeltz: Collected Poetry)
 
 <!--
 
