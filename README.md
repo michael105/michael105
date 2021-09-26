@@ -17,11 +17,10 @@
 <!-- *====================================* -->
 
 A passionated opensource developer, 
-currently preparing a minimal statically linked Linux distribution.<br>
+currently trying to minimize a statically linked 
+Linux distribution.<br>
 
-Do not disturb me please, I do have to link all these tools so they fit into the cpu's l2 cache@!!
-:( fit them into L1 has been, to be honest, maybe possibly a bit, uuh. well. L1 simply is a misconception, 
-should be much bigger!
+
 
 University graduate, Philosophy and History of Science. (Magister Artium)
 
