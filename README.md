@@ -29,7 +29,7 @@ Freelancer.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=michael105&include_all_commits=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael105&theme=blue-green&exclude_repo=home,docu-c,libc-manpages,michael105.github.io,weblinks&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<!--
 <img align="right" height="240px" src="comics-cow-aliens-reverse-6173535.jpeg"> 
 <br>
 <code>I have not seen a cow,</code>
@@ -37,7 +37,7 @@ Freelancer.
   (M.Porter: Applied Psychology for Nurses)
 <br>
 <br>
-<!-- Oh freddled gruntbuggly,
+ Oh freddled gruntbuggly,
 Thy micturations are to me, (with big yawning)
 As plurdled gabbleblotchits, in midsummer morning
 On a lurgid bee,
@@ -45,7 +45,7 @@ That mordiously hath blurted out,
 Its earted jurtles, grumbling
 Into a rancid festering confectious organ squealer.
 (Prostetnic Vogon Jeltz: Collected Poetry)
--->
+
 <em>
 Now the jurpling slayjid agrocrustles,
 Are slurping hagrilly up the axlegrurts,
@@ -57,7 +57,7 @@ With crinkly bindlewurdles,mashurbitries.
 Or else I shall rend thee in the gobberwarts with my blurglecruncheon,
 See if I don't! </em>(Prostetnic Vogon Jeltz: Collected Poetry)
 
-<!--
+
 
 **michael105/michael105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
