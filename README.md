@@ -18,7 +18,8 @@
 <hr>
 
 If you'd like to support my work,
-here is a link to my stripe account.
+here is a link to my stripe account. <br>
+Any amount is welcome.
 
 https://donate.stripe.com/3cs8xR1J6bVJ7cY4gg
 
