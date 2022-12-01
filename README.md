@@ -32,7 +32,7 @@ A passionated opensource developer,
 still trying to minimize a statically linked 
 Linux distribution.<br>
 Eventually I should have set myself some reasonable limit.<br>
-64kB seems to be possible. But..
+64kB (without kernel) seems to be possible. But..
 
 
 
