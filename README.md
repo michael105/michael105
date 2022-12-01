@@ -29,8 +29,10 @@ https://donate.stripe.com/3cs8xR1J6bVJ7cY4gg
 <!-- *====================================* -->
 
 A passionated opensource developer, 
-currently trying to minimize a statically linked 
+still trying to minimize a statically linked 
 Linux distribution.<br>
+Eventually I should have set myself some reasonable limit.<br>
+64kB seems to be possible. But..
 
 
 
