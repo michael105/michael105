@@ -35,8 +35,10 @@ Linux conglomeration.<br>
 64kB (without kernel) seems to be possible, but there won't be much space left for manuals an other useful things.<br>
 <br>-->
 <br>
-Started programming with Basic, to head on to Pascal, later cpp, some Java, to finally go back to C and Assembly.
+Started programming with Basic, to head on to Pascal, later Cpp, some Java, to finally go back to C and Assembly.
 <br>
+Did play with sql, css, html, and such, did lately confuse fortran with cobol. Now I "learned" fortran.<br>
+memo. The thing is named cobol.<br>
 <br>
 Sometimes wondering about the development of IT - instead of getting "better", in the meaning of faster and being able to be more productive -
 there seems to be a shiny interface more worth, than just being useful.<br>
