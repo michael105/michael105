@@ -29,13 +29,18 @@ https://donate.stripe.com/3cs8xR1J6bVJ7cY4gg
 <!-- *====================================* -->
 
 A passionated opensource developer, 
-still trying to minimize a statically linked 
-Linux distribution.<br>
-Eventually I should have set myself some reasonable limit.<br>
-64kB (without kernel) seems to be possible. But..<br>
-Btw., would someone kindly be willing to send me some raspberries?<br>
-Or other interesting development boards. 
-
+having fun with minimizing a statically linked 
+Linux conglomeration.<br>
+<!--Eventually I should set myself some reasonable limit,<br>
+64kB (without kernel) seems to be possible, but there won't be much space left for manuals an other useful things.<br>
+<br>-->
+<br>
+Started programming with Basic, to head on to Pascal, later cpp, some Java, to finally go back to C and Assembly.
+<br>
+<br>
+Sometimes wondering about the development of IT - instead of getting "better", in the meaning of faster and being able to be more productive -
+there seems to be a shiny interface more worth, than just being useful.<br>
+At least for text processing, and development..<br><br>
 
 
 University graduate, Philosophy and History of Science. (Magister Artium)
