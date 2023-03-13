@@ -12,7 +12,7 @@
 [https://michael105.github.com - *About me, old blog*](https://michael105.github.io)
 
 
-[https://gist.github.com/ - *github repository index*](https://gist.github.com/8481222f07035e568d774c4d6e0b51ef)
+[https://gist.github.com/ - *github repository index*](https://gisfft.github.com/8481222f07035e568d774c4d6e0b51ef)
 
 
 <hr>
@@ -52,7 +52,7 @@ Freelancer.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=michael105&include_all_commits=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael105&theme=blue-green&exclude_repo=home,docu-c,libc-manpages,michael105.github.io,weblinks&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=michael105&theme=tokyonight&column=8)](trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=michael105&theme=darkhub&column=8)](trophy)
 
 
 <!--
