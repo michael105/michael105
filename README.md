@@ -37,12 +37,13 @@ Linux conglomeration.<br>
 <br>
 Started programming with Basic, to head on to Pascal, later Cpp, some Java, to finally go back to C and Assembly.
 <br>
-Did play with sql, css, html, and such, did lately confuse fortran with cobol. Now I "learned" fortran.<br>
-memo. The thing is named cobol.<br>
+Did play with sql, css, html, and such.<br>
 <br>
+Currently mainly interested in shrinking binaries. Sort of competitive fun.<br><br>
+<!--
 Sometimes wondering about the development of IT - instead of getting "better", in the meaning of faster and being able to be more productive -
 there seems to be a shiny interface more worth, than just being useful.<br>
-At least for text processing, and development..<br><br>
+At least for text processing, and development..<br><br>-->
 
 
 University graduate, Philosophy and History of Science. (Magister Artium)
@@ -52,7 +53,7 @@ Freelancer.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=michael105&include_all_commits=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael105&theme=blue-green&exclude_repo=home,docu-c,libc-manpages,michael105.github.io,weblinks&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=michael105&theme=darkhub&column=8)](trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=michael105&theme=darkhub&column=8&row=1)](trophy)
 
 
 <!--
