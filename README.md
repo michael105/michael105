@@ -40,7 +40,7 @@ Started programming with Basic, to head on to Pascal, later Cpp, did a lot with 
 Did play with sql, css, html, and such.<br>
 <br>
 Currently mainly interested in shrinking binaries, system development with C and Assembler, (size) optimizing algorithms.<br> 
-Sort of competitive fun and contemplation.<br><br>
+Sort of competitive fun, contemplation and art.<br><br>
 <!--
 Sometimes wondering about the development of IT - instead of getting "better", in the meaning of faster and being able to be more productive -
 there seems to be a shiny interface more worth, than just being useful.<br>
