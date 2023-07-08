@@ -39,22 +39,35 @@ Started programming with Basic, to head on to Pascal, later Cpp, did a lot with 
 <br>
 Did play with sql, css, html, and such.<br>
 <br>
+University graduate, Philosophy, History and History of Science. (Magister Artium)
+<br>
 Currently mainly interested in shrinking binaries, system development with C and Assembler, (size) optimizing algorithms.<br> 
-Sort of competitive fun, contemplation and art.<br><br>
+Competitive fun, contemplation and art.<br><br>
 <!--
 Sometimes wondering about the development of IT - instead of getting "better", in the meaning of faster and being able to be more productive -
 there seems to be a shiny interface more worth, than just being useful.<br>
 At least for text processing, and development..<br><br>-->
 
+<pre>
+Love playing with the surreality of heisenbugs. they are, and are not. and nice nasty.
 
-University graduate, Philosophy and History of Science. (Magister Artium)
+  
+      ****       /------\    /--\ - 
+    * O o *   /\/Heisen  \--/    \/\/\/\/\-
+    *  |  *  <<<<   Bugs   your mind  >>>> << -
+    *'~~~,*   \/\ byte   /--\    /\/\/\/\/-
+    **   **      \------/    \--/ -  
+      ***
+    miSc23
+  </pre>
 
-Freelancer. 
 
+<!--
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=michael105&include_all_commits=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) 
+--> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael105&theme=blue-green&exclude_repo=home,docu-c,libc-manpages,michael105.github.io,weblinks&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=michael105&include_all_commits=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael105&theme=blue-green&exclude_repo=home,docu-c,libc-manpages,michael105.github.io,weblinks&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=michael105&theme=darkhub&column=8&row=1)](trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=michael105&theme=darkhub&column=4&row=2)](trophy)  
 
 
 <!--
