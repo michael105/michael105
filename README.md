@@ -49,18 +49,18 @@ there seems to be a shiny interface more worth, than just being useful.<br>
 At least for text processing, and development..<br><br>-->
 
 <pre>
-Love playing with the surreality of heisenbugs. they are, and are not. and nice nasty.
+Love playing with the surreality of heisenbugs. they are, and they are not. and nice.
 
   
       ****       /------\    /--\ - 
     * O o *   /\/Heisen  \--/    \/\/\/\/\-
     *  |  *  <<<<   Bugs   your mind  >>>> << -
-    *'~~~,*   \/\ byte   /--\    /\/\/\/\/-
+    *`~~~'*   \/\ byte   /--\    /\/\/\/\/-
     **   **      \------/    \--/ -  
       ***
     miSc23
 
-      To bug, or not too bug
+      To bug, or not to bug
   </pre>
 
 
