@@ -50,7 +50,7 @@ At least for text processing, and development..<br><br>-->
 
 <pre>
 Love playing with the surreality of heisenbugs. they are, and they are not. and nice.
-
+Getting bitten is part of interesting art.
   
       ****       /------\    /--\ - 
     * O o *   /\/Heisen  \--/    \/\/\/\/\-
@@ -62,7 +62,9 @@ Love playing with the surreality of heisenbugs. they are, and they are not. and 
 
       To bug, or not to bug
   </pre>
+I better stop that.
 
+Does anyone know, how the weather is going to be? 
 
 <!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=michael105&include_all_commits=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) 
