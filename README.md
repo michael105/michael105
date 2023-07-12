@@ -60,7 +60,7 @@ Getting bitten is part of interesting art.
       ***
     miSc23
 
-      To bug, or not to bug
+      To bug, or not to bug  --- 祝您有美好的一天！
   </pre>
 I better stop that.
 
