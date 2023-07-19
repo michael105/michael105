@@ -43,11 +43,14 @@ University graduate, Philosophy, History and History of Science. (Magister Artiu
 <br>
 Currently mainly interested in shrinking binaries, system development with C and Assembler, (size) optimizing algorithms.<br> 
 Contemplation, competitive fun and art.<br><br>
+
+
+
 <!--
 Sometimes wondering about the development of IT - instead of getting "better", in the meaning of faster and being able to be more productive -
 there seems to be a shiny interface more worth, than just being useful.<br>
 At least for text processing, and development..<br><br>-->
-
+<!--
 <pre>
 Love playing with the surreality of heisenbugs. they are, and they are not. and nice.
 Getting bitten is part of interesting art.
@@ -65,7 +68,7 @@ Getting bitten is part of interesting art.
 I better stop that.
 
 Does anyone know, how the weather is going to be? 
-
+-->
 <!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=michael105&include_all_commits=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) 
 -- 
