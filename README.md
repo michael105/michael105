@@ -9,8 +9,8 @@
 
 <!-- *====================================* -->
 
-Changed my email to misc XXX at posteo.net.<br>
-(Exchange the x's with theresult of 2*3+1)<br>
+Changed my email to misc X at posteo.net.<br>
+(Exchange the variable with the result of 2*3+1)<br>
 Mails to my previous addresses could have been lost.<br>
 [https://michael105.github.com - *About me, old blog*](https://michael105.github.io)
 
