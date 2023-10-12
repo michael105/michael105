@@ -45,7 +45,7 @@ Did play with sql, css, html, and such.<br>
 University graduate, Philosophy, History and History of Science. (Magister Artium)
 <br>
 Currently mainly interested in shrinking binaries, system development with C and Assembler, (size) optimizing algorithms.<br> 
-Contemplation, competitive fun and art.<br><br>
+<br>
 
 
 
