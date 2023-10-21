@@ -24,7 +24,7 @@ If you'd like to support my work,
 here is a link to my stripe account. <br>
 https://donate.stripe.com/3cs8xR1J6bVJ7cY4gg
 <hr>
-I'm now offering support and solutions in the system development and data algorithms field,<br>
+I'm offering support and solutions in the system development and data algorithms field,<br>
 if I'm available.<br>
 
 <hr>
