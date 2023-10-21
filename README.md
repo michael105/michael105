@@ -82,6 +82,10 @@ Does anyone know, how the weather is going to be?
 
 <!--
 <img align="right" height="240px" src="comics-cow-aliens-reverse-6173535.jpeg"> 
+<br> -->
+Seems to me, my other life has been ended.<br>
+Should possibly stop using a pseudonym, doesn't matter anymore.<br>
+Fxxxx idiots
 <br>
 <code>I have not seen a cow,</code>
 <br><code>but only a part which tells me a cow is there;</code> <br> <code>for all the cows I ever saw had hoofs...</code><br>
@@ -108,7 +112,7 @@ With crinkly bindlewurdles,mashurbitries.
 Or else I shall rend thee in the gobberwarts with my blurglecruncheon,
 See if I don't! </em>(Prostetnic Vogon Jeltz: Collected Poetry)
 
-
+<--
 
 **michael105/michael105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
