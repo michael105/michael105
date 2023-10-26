@@ -81,7 +81,7 @@ Does anyone know, how the weather is going to be?
 
 <!--
 <img align="right" height="240px" src="comics-cow-aliens-reverse-6173535.jpeg"> 
-<br> -->
+<br> 
 
 <pre>
   
@@ -115,7 +115,7 @@ Does anyone know, how the weather is going to be?
 ▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒
 
 </pre>
-
+-->
 <!--  
 ▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒
 ▓█████████████████████████████████████████████████████████████████████████████████████████████████▓
@@ -149,9 +149,7 @@ Does anyone know, how the weather is going to be?
 ▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒
   
 -->
-Seems to me, my other life has been ended.<br>
-Should possibly stop using a pseudonym, doesn't matter anymore.<br>
-Fxxxx idiots
+
 <br>
 <code>I have not seen a cow,</code>
 <br><code>but only a part which tells me a cow is there;</code> <br> <code>for all the cows I ever saw had hoofs...</code><br>
