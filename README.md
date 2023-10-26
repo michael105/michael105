@@ -149,7 +149,7 @@ Does anyone know, how the weather is going to be?
 ▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒
   
 -->
-
+<!--
 <br>
 <code>I have not seen a cow,</code>
 <br><code>but only a part which tells me a cow is there;</code> <br> <code>for all the cows I ever saw had hoofs...</code><br>
@@ -164,7 +164,7 @@ That mordiously hath blurted out,
 Its earted jurtles, grumbling
 Into a rancid festering confectious organ squealer.
 (Prostetnic Vogon Jeltz: Collected Poetry)
-
+-->
 <em>
 Now the jurpling slayjid agrocrustles,
 Are slurping hagrilly up the axlegrurts,
