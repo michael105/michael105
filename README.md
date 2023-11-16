@@ -1,7 +1,7 @@
 <!-- <img align="right" height="240px" src="me-320px.png"> 
 -->
 
-#### Michael (misc) Myer
+#### Michael (misc) (Myer) misc147
 
 
 <hr>
@@ -165,7 +165,7 @@ Its earted jurtles, grumbling
 Into a rancid festering confectious organ squealer.
 (Prostetnic Vogon Jeltz: Collected Poetry)
 -->
-<em>
+<!-- <em>
 Now the jurpling slayjid agrocrustles,
 Are slurping hagrilly up the axlegrurts,
 And living glupules frart and stipulate,
@@ -175,7 +175,7 @@ And hooptiously drangle me,
 With crinkly bindlewurdles,mashurbitries.
 Or else I shall rend thee in the gobberwarts with my blurglecruncheon,
 See if I don't! </em>(Prostetnic Vogon Jeltz: Collected Poetry)
-</em>
+</em> -->
 <!--
 
 **michael105/michael105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
