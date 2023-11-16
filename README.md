@@ -8,6 +8,7 @@
 
 <!-- *====================================* -->
 
+(23/11) changed my nick to misc147,<br> <img align="right" src="147.png"/>
 Changed my email to misc X at posteo.net.<br>
 (Replace the variable with the result of ((twice 3),+1) )<br>
 Mails to my previous addresses could have been lost.<br>
