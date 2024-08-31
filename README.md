@@ -28,15 +28,16 @@ Linux conglomeration.<br>
 64kB (without kernel) seems to be possible, but there won't be much space left for manuals an other useful things.<br>
 <br>-->
 <br>
-Started programming with Basic at an IBM PC-1, to head on to Pascal, later Cpp, did a lot with perl, some Java, finally got back to C, Assembly and shelled scripts.
+Started programming with Basic at an IBM PC(One of those first models,no hd, no graphics..), to head on to Pascal, later Cpp, did a lot with perl, some Java, finally got back to C, Assembly and shelled scripts.
 <br>
 Did play with sql, css, html, and such.<br>
 <br>
 University graduate, Philosophy, History and History of Science. (Magister Artium)
-<br>
+<br><br>
+DIY Electronics, mainly audio, etched own boards some time ago.<br><br>
 Currently mainly interested in shrinking binaries, system development with C and Assembler, (size) optimizing algorithms.<br> 
 <br>
-Now in AI stuff. I like this vibe of Douglas Adams.
+Now in AI stuff. I like this vibe of Douglas Adams. I dislike Python...
 <br><br>
 However, yet all code here is written by me, in person, without ai support.
 
