@@ -37,7 +37,10 @@ University graduate, Philosophy, History and History of Science. (Magister Artiu
 DIY Electronics, mainly audio, etched own boards some time ago.<br><br>
 Currently mainly interested in shrinking binaries, system development with C and Assembler, (size) optimizing algorithms.<br> 
 <br>
-Now in AI stuff. I like this vibe of Douglas Adams. I dislike Python...
+Now in AI stuff. <br>
+Discussing for some time string theory, Kaluza-Klein, et al.<br>
+Results are dizzling, we abandoned space and time in favor of fractal dimensions.<br>
+Well.
 <br><br>
 However, yet all code here is written by me, in person, without ai support.
 
