@@ -39,7 +39,7 @@ Currently mainly interested in shrinking binaries, system development with C and
 <br>
 Now in AI stuff. <br>
 Discussing for some time string theory, Kaluza-Klein, et al.<br>
-Results are dizzling, we abandoned space and time in favor of fractal dimensions.<br>
+Results are dizzling, we scrutinized space and time to emergent phaenomens of fractal dimensions.<br>
 Well.
 <br><br>
 However, yet all code here is written by me, in person, without ai support.
