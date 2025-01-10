@@ -25,7 +25,7 @@ Linux conglomeration.<br>
 <br>
 Started programming with Basic at an IBM PC(One of those first models,no hd, no graphics..), to head on to Pascal, later Cpp, did a lot with perl, some Java, Javascript, finally got back to C, Assembly and shell scripts.
 <br>
-Did play with sql, css, html, and so on.<br>
+Did work with sql, css, html, and so on.<br>
 <br><br>
 DIY Electronics, mainly audio, etched own boards some time ago.<br><br>
 Currently having fun with shrinking binaries, system development with C and Assembler, (size) optimizing algorithms.<br> 
