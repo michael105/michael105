@@ -63,7 +63,7 @@ I better stop that.
 
 Does anyone know, how the weather is going to be? 
 -->
-<--
+<!--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=michael105&include_all_commits=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) 
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael105&theme=blue-green&exclude_repo=home,docu-c,libc-manpages,michael105.github.io,weblinks&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
