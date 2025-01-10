@@ -33,9 +33,10 @@ Currently having fun with shrinking binaries, system development with C and Asse
 Yet all code here is written by me, in person,<br>
 albite I'm using AI to lookup documentation.<br>
 <br>
-Currently I'd say, AI would be able to write some code, <br>
-but looking for hard to find bugs and misconceptions takes more time than writing the code 
+I'd say, until now AI would be able to write some code, <br>
+but looking for hard to find bugs and misconceptions takes <br>more time than writing the code 
 on my own.<br>
+Besides, I'm doing my projects here for fun and contemplation.<br>
 <br>
 
 
