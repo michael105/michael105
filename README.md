@@ -8,9 +8,6 @@
 
 <!-- *====================================* -->
 
-Changed my email to misc X at posteo.net.<br>
-(Replace the variable with the result of ((twice 3),+1) )<br>
-
 [https://michael105.github.com - *About me, old blog*](https://michael105.github.io)
 
 
@@ -24,25 +21,23 @@ Changed my email to misc X at posteo.net.<br>
 A passionated opensource developer, 
 having fun with minimizing a statically linked 
 Linux conglomeration.<br>
-<!--Eventually I should set myself some reasonable limit,<br>
-64kB (without kernel) seems to be possible, but there won't be much space left for manuals an other useful things.<br>
-<br>-->
+
 <br>
-Started programming with Basic at an IBM PC(One of those first models,no hd, no graphics..), to head on to Pascal, later Cpp, did a lot with perl, some Java, finally got back to C, Assembly and shelled scripts.
+Started programming with Basic at an IBM PC(One of those first models,no hd, no graphics..), to head on to Pascal, later Cpp, did a lot with perl, some Java, Javascript, finally got back to C, Assembly and shell scripts.
 <br>
-Did play with sql, css, html, and such.<br>
-<br>
-University graduate, Philosophy, History and History of Science. (Magister Artium)
+Did play with sql, css, html, and so on.<br>
 <br><br>
 DIY Electronics, mainly audio, etched own boards some time ago.<br><br>
-Currently mainly interested in shrinking binaries, system development with C and Assembler, (size) optimizing algorithms.<br> 
+Currently having fun with shrinking binaries, system development with C and Assembler, (size) optimizing algorithms.<br> 
 <br>
-Now in AI stuff. <br>
-Discussing for some time string theory, Kaluza-Klein, et al.<br>
-Results are dizzling, we scrutinized space and time to emergent phaenomens of fractal dimensions.<br>
-Well.
-<br><br>
-However, yet all code here is written by me, in person, without ai support.
+Yet all code here is written by me, in person,<br>
+albite I'm using AI to lookup documentation.<br>
+<br>
+Currently I'd say, AI would be able to write some code, <br>
+but looking for hard to find bugs and misconceptions takes more time than writing the code 
+on my own.<br>
+<br>
+
 
 
 <!--
@@ -68,12 +63,13 @@ I better stop that.
 
 Does anyone know, how the weather is going to be? 
 -->
-<!--
+<--
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=michael105&include_all_commits=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) 
--- 
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael105&theme=blue-green&exclude_repo=home,docu-c,libc-manpages,michael105.github.io,weblinks&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=michael105&theme=darkhub&column=4&row=2)](trophy)  
+<!--
 -->
 
 <!--
@@ -173,18 +169,3 @@ With crinkly bindlewurdles,mashurbitries.
 Or else I shall rend thee in the gobberwarts with my blurglecruncheon,
 See if I don't! </em>(Prostetnic Vogon Jeltz: Collected Poetry)
 </em> -->
-<!--
-
-**michael105/michael105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
