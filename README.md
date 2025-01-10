@@ -38,7 +38,9 @@ but looking for hard to find bugs and misconceptions takes <br>more time than wr
 on my own.<br>
 Besides, I'm doing my projects here for fun and contemplation.<br>
 <br>
-Software means creative art to me.<br>
+Developing software means creative art to me.<br>
+
+<br>
 
 
 
