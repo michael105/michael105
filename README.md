@@ -43,7 +43,7 @@ Developing software means creative art to me.<br>
 <br>
 <br>
 <hr>
-Well. "most used languages", the box doesn't seem to work out.
+"most used languages"
 <br> <br>
 So: C, Perl, C++, shell.<br>
 Less: Assembler, Javascript, sql, Java, python.<br>
