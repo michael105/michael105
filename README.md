@@ -42,6 +42,9 @@ Developing software means creative art to me.<br>
 
 <br>
 <br>
+Despite of any emails to find, best way to contact me is either by opening an issue here 
+(This I'll see in each case) or miscNNN@disroot.org, where N is to be replaced by the result of three times half of hundred, subtract 3.
+
 <hr>
 "most used languages"
 <br> <br>
