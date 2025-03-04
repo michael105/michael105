@@ -157,7 +157,7 @@ Does anyone know, how the weather is going to be?
 ▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒
   
 -->
-
+<hr>
 <br>
 <code>I have not seen a cow,</code>
 <br><code>but only a part which tells me a cow is there;</code> <br> <code>for all the cows I ever saw had hoofs...</code><br>
