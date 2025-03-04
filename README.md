@@ -173,6 +173,13 @@ Its earted jurtles, grumbling
 Into a rancid festering confectious organ squealer.
 (Prostetnic Vogon Jeltz: Collected Poetry)
 
+<hr>
+
+A slightly modified version of the apollo agc system software https://github.com/chrislgarry/Apollo-11 and some modifications
+to the propulsion system might make it possible to reach 42m/s, the answer to everything, and leave the solar system.
+
+It's going to be nasty in Europe.
+
 <!-- <em>
 Now the jurpling slayjid agrocrustles,
 Are slurping hagrilly up the axlegrurts,
