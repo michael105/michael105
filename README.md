@@ -176,7 +176,7 @@ Into a rancid festering confectious organ squealer.
 <hr>
 
 A slightly modified version of the apollo agc system software https://github.com/chrislgarry/Apollo-11 and some modifications
-to the propulsion system might make it possible to reach 42m/s, the answer to everything, and leave the solar system.
+to the propulsion system might make it possible to reach 42km/s, the answer to everything, and leave the solar system.
 
 It's going to be nasty in Europe.
 
