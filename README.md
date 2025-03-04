@@ -1,7 +1,7 @@
 <!-- <img align="right" height="240px" src="me-320px.png"> 
 -->
 
-#### Michael (misc) (Myer) misc147
+#### Michael (misc) (Myer) (Miller) misc147
 
 
 <hr>
@@ -43,7 +43,7 @@ Developing software means creative art to me.<br>
 <br>
 <br>
 Despite of any emails to find, best way to contact me is either by opening an issue here 
-(This I'll see in each case) or miscNNN@disroot.org, where N is to be replaced by the result of three times half of hundred, subtract 3.
+(This I'll see in each case) or miscNNN@disroot.org, where NNN is to be replaced by the result of three times half of hundred, subtract 3.
 
 <hr>
 "most used languages"
@@ -90,7 +90,7 @@ Does anyone know, how the weather is going to be?
 <!--
 <img align="right" height="240px" src="comics-cow-aliens-reverse-6173535.jpeg"> 
 <br> 
-
+-->
 <pre>
   
 ▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒
@@ -123,7 +123,7 @@ Does anyone know, how the weather is going to be?
 ▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒
 
 </pre>
--->
+
 <!--  
 ▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒
 ▓█████████████████████████████████████████████████████████████████████████████████████████████████▓
@@ -157,7 +157,7 @@ Does anyone know, how the weather is going to be?
 ▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒
   
 -->
-<!--
+
 <br>
 <code>I have not seen a cow,</code>
 <br><code>but only a part which tells me a cow is there;</code> <br> <code>for all the cows I ever saw had hoofs...</code><br>
@@ -172,7 +172,7 @@ That mordiously hath blurted out,
 Its earted jurtles, grumbling
 Into a rancid festering confectious organ squealer.
 (Prostetnic Vogon Jeltz: Collected Poetry)
--->
+
 <!-- <em>
 Now the jurpling slayjid agrocrustles,
 Are slurping hagrilly up the axlegrurts,
