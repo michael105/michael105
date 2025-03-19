@@ -1,7 +1,7 @@
 <!-- <img align="right" height="240px" src="me-320px.png"> 
 -->
 
-#### Michael (misc) (Myer) (Miller) misc147
+#### Michael (misc147)
 
 
 <hr>
