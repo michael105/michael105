@@ -53,6 +53,49 @@ Less: Assembler, Javascript, sql, Java, python.<br>
 Long ago: Basic, Pascal.<br>
 <br>
 
+<hr>
+<pre><code>
+use warnings;
+no Error;
+#use brain
+#use diagnostics;
+;
+;
+;
+;
+;
+;
+
+
+           sub'saucer{;-0;my $brain;not(($n=ord($c))&0600)and
+               $_[2].=$c or saucer($_,substr($_,($n^0200)
+             <<  1,2),$_[2])while($c=substr($_[1],$brain  ++
+                       ,1));$_[2];} eval saucer
+                             $_,/\xff(.*)/s
+                              for join "",
+                                 <DATA>
+
+
+
+
+
+                                __DATA__
+
+
+  ü üüâüe ontiââ∀âToüéthertoci
+En∈änestw areâgonobo.€whlianâäorldàös.fr„‚∗†‘‼nué∉ ∗eéhas Thprinisofd
+∈gé ∄∉∃esviàb¥fsi⟨⁉éfà∄àvoy e∀∈Ö¬Üíly∗,’╣¥zgàag∈Ät ░a⟨¢r´ef';§wáexpáíe¶
+äé«∀”e.€€láà⁇'€┐└It▓╢ó⁇shg∗½¼║╤a†sé┴╦Spú∨╘▄∗só╨╫γ¢┤πΣip‘w„├lâ≠ ∧ØcØ╚╔t⟨╥
+╧╪m▒»▒∆»░═▀
+âéδace,
+é∄⁉╛╬÷°²┘╕▐αΩ≡≥≤„∀“√∆█üßΘ‗¿░╡¯╝╟„╠┬╒▌∩╩╙╓∞≈seek out∨§╗eü´│∫×•Φε±╖┼╞┌
+ƒ£╜─µ¶στφⁿ
+#__________<_+++___Beware_-_of_-_Agent_-_Smith\''s's___+++_>____________
+  
+</code></pre>
+
+
+<hr>
 
 
 <!--
