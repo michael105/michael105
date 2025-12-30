@@ -54,7 +54,7 @@ Long ago: Basic, Pascal.<br>
 <br>
 
 <hr>
-<pre><code>
+<pre>
 #!/bin/perl -w
 use warnings;
 no Error;
@@ -92,9 +92,9 @@ En∈änestw areâgonobo.€whlianâäorldàös.fr„‚∗†‘‼nué∉ ∗e
 é∄⁉╛╬÷°²┘╕▐αΩ≡≥≤„∀“√∆█üßΘ‗¿░╡¯╝╟„╠┬╒▌∩╩╙╓∞≈seek out∨§╗eü´│∫×•Φε±╖┼╞┌
 ƒ£╜─µ¶στφⁿ
 #__________<_+++___Beware_-_of_-_Agent_-_Smith\''s's___+++_>____________
-# Best wishes,
+# A happy new year!
 # in Germany we say: Have a good slide! ^
-</code></pre>
+</pre>
 [saucer42.cp850.pl](./saucer42.cp850.pl)
 
 <hr>
