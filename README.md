@@ -55,6 +55,7 @@ Long ago: Basic, Pascal.<br>
 
 <hr>
 <pre><code>
+#!/bin/perl -w
 use warnings;
 no Error;
 #use brain
