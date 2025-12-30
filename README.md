@@ -91,9 +91,9 @@ En∈änestw areâgonobo.€whlianâäorldàös.fr„‚∗†‘‼nué∉ ∗e
 âéδace,
 é∄⁉╛╬÷°²┘╕▐αΩ≡≥≤„∀“√∆█üßΘ‗¿░╡¯╝╟„╠┬╒▌∩╩╙╓∞≈seek out∨§╗eü´│∫×•Φε±╖┼╞┌
 ƒ£╜─µ¶στφⁿ
-#__________<_+++___Beware_-_of_-_Agent_-_Smith\''s's___+++_>____________
-# A happy new year!
-# in Germany we say: Have a good slide! ^
+###__________<_+++___Beware_-_of_-_Agent_-_Smith\''s's___+++_>____________
+### Happy new year!
+### In Germany we say: Have a good slide! ^
 </pre>
 [saucer42.cp850.pl](./saucer42.cp850.pl)
 
