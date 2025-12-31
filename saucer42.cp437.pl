@@ -45,7 +45,7 @@ En‰„nestw areƒgonobo.€whlianƒ„orld…”s.fr’†‡“•nu‚Š †e‚has Thprinisofd
 # ////
 # About the perl block..
 # It's just a decompression, recursively.
-# and the concluding .. eval saucer ..
+# and the concluding .. eval saucer executes the self decompressed code.
 # the decompression, funnily enough, isn't 
 # that bad. also the compression.
 # it's about 50 percent, sometime also more, 70 percent.
