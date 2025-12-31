@@ -80,20 +80,21 @@ no Error;
 
 
 
+
                                 __DATA__
 
 
-  Ã¼ Ã¼Ã¼Ã¢Ã¼e ontiÃ¢Ã¢âˆ€Ã¢ToÃ¼Ã©thertoci
-EnâˆˆÃ¤nestw areÃ¢gonobo.â‚¬whlianÃ¢Ã¤orldÃ Ã¶s.frâ€â€šâˆ—â€ â€˜â€¼nuÃ©âˆ‰ âˆ—eÃ©has Thprinisofd
-âˆˆgÃ© âˆ„âˆ‰âˆƒesviÃ bÂ¥fsiâŸ¨â‰Ã©fÃ âˆ„Ã voy eâˆ€âˆˆÃ–Â¬ÃœÃ­lyâˆ—,â€™â•£Â¥zgÃ agâˆˆÃ„t â–‘aâŸ¨Â¢rÂ´ef';Â§wÃ¡expÃ¡Ã­eÂ¶
-Ã¤Ã©Â«âˆ€â€e.â‚¬â‚¬lÃ¡Ã â‡'â‚¬â”â””Itâ–“â•¢Ã³â‡shgâˆ—Â½Â¼â•‘â•¤aâ€ sÃ©â”´â•¦SpÃºâˆ¨â•˜â–„âˆ—sÃ³â•¨â•«Î³Â¢â”¤Ï€Î£ipâ€˜wâ€â”œlÃ¢â‰  âˆ§Ã˜cÃ˜â•šâ•”tâŸ¨â•¥
-â•§â•ªmâ–’Â»â–’âˆ†Â»â–‘â•â–€
-Ã¢Ã©Î´ace,
-Ã©âˆ„â‰â•›â•¬Ã·Â°Â²â”˜â••â–Î±Î©â‰¡â‰¥â‰¤â€âˆ€â€œâˆšâˆ†â–ˆÃ¼ÃŸÎ˜â€—Â¿â–‘â•¡Â¯â•â•Ÿâ€â• â”¬â•’â–Œâˆ©â•©â•™â•“âˆâ‰ˆseek outâˆ¨Â§â•—eÃ¼Â´â”‚âˆ«Ã—â€¢Î¦ÎµÂ±â•–â”¼â•â”Œ
-Æ’Â£â•œâ”€ÂµÂ¶ÏƒÏ„Ï†â¿
-###__________<_+++___Beware_-_of_-_Agent_-_Smith\''s's___+++_>____________
-### Happy new year!
-### In Germany we say: Have a good slide! ^
+   ƒe ontiƒƒˆƒTo‚thertoci 
+En‰„nestw areƒgonobo.€whlianƒ„orld…”s.fr’†‡“•nu‚Š †e‚has Thprinisofd 
+‰g‚ ŒŠ‹esvi…bfsi—‚f…Œ…voy eˆ‰™ªš¡ly†,¹zg…ag‰t °a›ref';§w exp ¡e­
+„‚®ˆ˜e.€€l …–'€¿ÀIt²¶¢–shg†«¬ºÑa‡s‚ÁËSp£¥ÔÜ†s¢Ğ×â›´ãäip“wÃlƒ© ¤¦c¦ÈÉtÒ
+ÏØm±¯±ÿ¯°Íß
+ƒ‚ëace,
+‚Œ—¾ÎöøıÙ¸Şàêğòóˆ‘ûÿÛáéù¨°µş¼ÇÌÂÕİïÊÓÖì÷seek out¥§»e³ôõúèîñ·ÅÆÚ
+Ÿœ½Äæ­åçíü
+### __________<_+++___Beware_-_of_-_Agent_-_Smith\''s's___+++_>____________
+### Happy new year!  
+### in Germany we say: Have a good slide! ^
 </pre>
 
 [saucer42.cp437.pl](./saucer42.cp850.pl)
