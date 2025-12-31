@@ -97,7 +97,7 @@ En‰„nestw areƒgonobo.€whlianƒ„orld…”s.fr’†‡“•nu‚Š †e‚has Thprinisofd
 ### in Germany we say: Have a good slide! ^
 </pre>
 
-[saucer42.cp437.pl](./saucer42.cp850.pl)
+[saucer42.cp437.pl](./saucer42.cp437.pl)
 
 <hr>
 
