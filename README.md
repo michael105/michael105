@@ -96,7 +96,7 @@ En∈änestw areâgonobo.€whlianâäorldàös.fr„‚∗†‘‼nué∉ ∗e
 ### In Germany we say: Have a good slide! ^
 </pre>
 
-[saucer42.cp850.pl](./saucer42.cp850.pl)
+[saucer42.cp437.pl](./saucer42.cp850.pl)
 
 <hr>
 
@@ -203,6 +203,7 @@ Does anyone know, how the weather is going to be?
 ▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒
   
 -->
+<!--
 <hr>
 <br>
 <code>I have not seen a cow,</code>
@@ -221,10 +222,13 @@ Into a rancid festering confectious organ squealer.
 
 <hr>
 <hr>
+-->
 
 Assembling the launch platform, palliumOS, sort of ikea stuff.
 
 Everything is there, it's just either not connected or missing.
+
+Still have to find my way with ai.
 
 <!-- <em>
 Now the jurpling slayjid agrocrustles,
