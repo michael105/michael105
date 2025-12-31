@@ -14,7 +14,7 @@ no Error;
 
            sub'saucer{;-0;my $brain;not(($n=ord($c))&0600)and 
                $_[2].=$c or saucer($_,substr($_,($n^0200)
-             <<  1,2),$_[2])while($c=substr($_[1],$brain  ++
+            << 1,2),$_[2])while($c=substr($_[0+1],$brain  ++
                        ,1));$_[2];} eval saucer 
                              $_,/\xff(.*)/s 
                               for join "", 
