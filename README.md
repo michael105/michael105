@@ -32,6 +32,7 @@ Currently having fun with shrinking binaries, system development with C and Asse
 <br>
 Yet all code here is written by me, in person,<br>
 albite I'm using AI to lookup documentation.<br>
+I mark all ai usage explicitly for several reasons.<br>
 <br>
 <!--
 I'd say, until now AI would be able to write some code, <br>
