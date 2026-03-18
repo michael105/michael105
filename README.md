@@ -23,7 +23,7 @@ having fun with minimizing a statically linked
 Linux conglomeration.<br>
 
 <br>
-Started programming with Basic at an IBM PC(One of those first models,no hd, no graphics..), to head on to Pascal, later Cpp, did a lot with perl, some Java, Javascript, finally got back to C, Assembly and shell scripts.
+Started programming with Basic at an IBM PC(One of those first models,no hd, no graphics..), to head on to Pascal, later Cpp, did a lot with perl, some Java, Javascript, finally came back to C, Assembly and shell scripts.
 <br>
 Did work with sql, css, html, and so on.<br>
 <br><br>
@@ -50,7 +50,7 @@ Despite of any emails to find, best way to contact me is either by opening an is
 <hr>
 "most used languages"
 <br> <br>
-So: C, Perl, C++, shell.<br>
+C, Perl, C++, shell.<br>
 Less: Assembler, Javascript, sql, Java, python.<br>
 Long ago: Basic, Pascal.<br>
 <br>
