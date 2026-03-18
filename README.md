@@ -28,7 +28,7 @@ Started programming with Basic at an IBM PC(One of those first models,no hd, no 
 Did work with sql, css, html, and so on.<br>
 <br><br>
 DIY Electronics, mainly audio, etched own boards some time ago.<br><br>
-Currently having fun with shrinking binaries, system development with C and Assembler, (size) optimizing algorithms.<br> 
+Currently having fun with shrinking binaries, system development with C and Assembler, (size) optimizing algorithms, latency optimized OS development.<br> 
 <br>
 Yet all code here is written by me, in person,<br>
 albite I'm using AI to lookup documentation.<br>
