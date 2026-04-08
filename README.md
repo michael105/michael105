@@ -43,20 +43,27 @@ Besides, I'm doing my projects here for fun and contemplation.<br>
 <br>
 Developing software means creative art to me.<br>
 -->
-
+<!--
 <br>
 Despite of any emails to find, best way to contact me is either by opening an issue here 
 (This I'll see in each case) or miscNNN@disroot.org, where NNN is to be replaced by the result of three times half of hundred, subtract 3.
+-->
 
 <hr>
-"most used languages"
-<br> <br>
-C, Perl, C++, shell.<br>
-Less: Assembler, Javascript, sql, Java, python.<br>
-Long ago: Basic, Pascal.<br>
-<br>
 
-
+<table>
+    <tr>
+<td valign="top">MOST USED LANGUAGES</td>
+<td>C, Perl, C++, shell.<br>
+Assembler, Javascript, sql, Java, python.
+ </td>           
+</tr>
+           <tr><td align="center">GITHUB MEMBER</td><td>20 years</td></tr>
+           <tr><td>PUBLIC PROJECTS</td><td>83</td></tr>
+<tr><td>STARS</td><td>203</td></tr>
+        <tr><td align="center">CONTACT<br>3 times half of hundred, subtract 3</td><td>miscNNN@disroot.org</td>
+           </tr>
+</table>
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=michael105&include_all_commits=true&theme=blue-green)
