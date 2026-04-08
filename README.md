@@ -52,16 +52,17 @@ Despite of any emails to find, best way to contact me is either by opening an is
 <hr>
 
 <table>
+           <tr><td>MAIN FOCUS</td><td>OS Development, latency and size optimization</td></tr>
     <tr>
-<td valign="top">MOST USED LANGUAGES</td>
-<td>C, Perl, C++, shell.<br>
-Assembler, Javascript, sql, Java, python.
+<td>MOST USED LANGUAGES</td>
+<td>C, Perl, C++, shell<br>
+Assembler, Javascript, sql, Java, python
  </td>           
 </tr>
-           <tr><td align="center">GITHUB MEMBER</td><td>20 years</td></tr>
+           <tr><td>GITHUB MEMBER</td><td>20 years</td></tr>
            <tr><td>PUBLIC PROJECTS</td><td>83</td></tr>
 <tr><td>STARS</td><td>203</td></tr>
-        <tr><td align="center">CONTACT<br>3 times half of hundred, subtract 3</td><td>miscNNN@disroot.org</td>
+        <tr><td>CONTACT<br>3 times half of hundred, subtract 3</td><td>miscNNN@disroot.org</td>
            </tr>
 </table>
 
