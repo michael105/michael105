@@ -59,13 +59,13 @@ Despite of any emails to find, best way to contact me is either by opening an is
 Assembler, Javascript, sql, Java, python
  </td>           
 </tr>
-           <tr><td>GITHUB MEMBER</td><td>13 years</td></tr>
+           <tr><td>GITHUB</td><td>13 years<br><small>(started publishing 2004 at sourceforge)</small></td></tr>
            <tr><td>PUBLIC PROJECTS</td><td>83</td></tr>
 <tr><td>STARS</td><td>203</td></tr>
     <tr><td>WEBSITES</td><td>7 projects, over time</td></tr>
     <tr><td>SUCCESS</td><td>google pagerank 6 (2008)</td></tr>
     <tr><td>ESTIMATED PAGEVIEWS</td><td> &gt; 1 Million over time </td></tr
-        <tr><td>CONTACT<br>3 times half of hundred, subtract 3</td><td>miscNNN@disroot.org</td>
+        <tr><td>CONTACT<br><small>3 times half of hundred, subtract 3</small></td><td>miscNNN@disroot.org</td>
            </tr>
 </table>
 
