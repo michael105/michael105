@@ -59,7 +59,7 @@ Despite of any emails to find, best way to contact me is either by opening an is
 Assembler, Javascript, sql, Java, python
  </td>           
 </tr>
-           <tr><td>GITHUB MEMBER</td><td>20 years</td></tr>
+           <tr><td>GITHUB MEMBER</td><td>13 years</td></tr>
            <tr><td>PUBLIC PROJECTS</td><td>83</td></tr>
 <tr><td>STARS</td><td>203</td></tr>
     <tr><td>WEBSITES</td><td>7 projects, over time</td></tr>
