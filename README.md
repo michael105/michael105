@@ -1,10 +1,11 @@
-
+<!-- GitHub stats (verlinkt) -->
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=michael105&include_all_commits=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael105&theme=blue-green&exclude_repo=home,docu-c,libc-manpages,michael105.github.io,weblinks&layout=compact&langs_count=8)]
+<!-- Top langs (nur Bild) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael105&theme=blue-green&exclude_repo=home,docu-c,libc-manpages,michael105.github.io,weblinks&layout=compact&langs_count=8)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=michael105&column=4&row=2)]
-
+<!-- Trophy (nur Bild) -->
+![trophy](https://github-profile-trophy.vercel.app/?username=michael105&column=4&row=2)
 
 <img align="right" height="240px" src="me-320px.png"> 
 
