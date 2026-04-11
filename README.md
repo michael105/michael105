@@ -60,7 +60,7 @@ Assembler, Javascript, sql, Java, python
  </td>           
 </tr>
            <tr><td>GITHUB</td><td>13 years<br><small>(started publishing 2004 at sourceforge)</small></td></tr>
-           <tr><td>PUBLIC PROJECTS</td><td>83</td></tr>
+           <tr><td>PUBLISHED PROJECTS</td><td>&gt; 75</td></tr>
 <tr><td>STARS</td><td>203</td></tr>
     <tr><td>WEBSITES</td><td>7 projects, over time</td></tr>
     <tr><td>SUCCESS</td><td>google pagerank 6 (2008)</td></tr>
