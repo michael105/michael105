@@ -62,6 +62,7 @@ Assembler, Javascript, sql, Java, python
            <tr><td>GITHUB</td><td>13 years<br><small>(started publishing 2004 at sourceforge)</small></td></tr>
            <tr><td>PUBLISHED PROJECTS</td><td>&gt; 75</td></tr>
 <tr><td>STARS</td><td>203</td></tr>
+           <tr><td>CODE RELIABILITY</td><td>99,993% / 15.000:1 (best performance),<br>minilib, ~ 30.000 LOC, 1 vulnerabilty (Codacy Codescan), 1 Heisenbug </td></tr>
     <tr><td>WEBSITES</td><td>7 projects, over time</td></tr>
     <tr><td>SUCCESS</td><td>google pagerank 6 (2009)</td></tr>
     <tr><td>ESTIMATED PAGEVIEWS</td><td> &gt; 1 Million over time </td></tr
