@@ -63,7 +63,7 @@ Assembler, Javascript, sql, Java, python
            <tr><td>PUBLISHED PROJECTS</td><td>&gt; 75</td></tr>
 <tr><td>STARS</td><td>203</td></tr>
     <tr><td>WEBSITES</td><td>7 projects, over time</td></tr>
-    <tr><td>SUCCESS</td><td>google pagerank 6 (2008)</td></tr>
+    <tr><td>SUCCESS</td><td>google pagerank 6 (2009)</td></tr>
     <tr><td>ESTIMATED PAGEVIEWS</td><td> &gt; 1 Million over time </td></tr
         <tr><td>CONTACT<br><small>3 times half of hundred, subtract 3</small></td><td>miscNNN@disroot.org</td>
            </tr>
