@@ -62,7 +62,7 @@ Assembler, Javascript, sql, Java, python
            <tr><td>PREFERRED LANGUAGES</td><td>C, Perl, Assembler</td></tr>
            <tr><td>OPENSOURCE ENGAGEMENT</td><td>25 years<br><small></small></td></tr>
            <tr><td>PUBLISHED PROJECTS</td><td>&gt; 75</td></tr>
-<tr><td>STARS</td><td>203</td></tr>
+<tr><td>STARS</td><td>226</td></tr>
            <tr><td>CODE RELIABILITY</td><td>99,993% / 15.000:1 (best value),<br>minilib, ~ 30.000 LOC, 1 vulnerability (Codacy Codescan), 1 Heisenbug </td></tr>
            <tr><td>REFACTORING PERFORMANCE</td><td>5000 (50.000 -> 40.000 LOC, result of adding 2 modules to a commercial CRM/ERP)</div>
            </td></tr>
