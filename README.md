@@ -66,7 +66,7 @@ Assembler, Javascript, sql, Java, python
            <tr><td>CODE RELIABILITY</td><td>99,993% / 15.000:1 (best value),<br>minilib, ~ 30.000 LOC, 1 vulnerability (Codacy Codescan), 1 Heisenbug </td></tr>
            <tr><td>REFACTORING PERFORMANCE</td><td>5000 (50.000 -> 40.000 LOC, result of adding 2 modules to a commercial CRM/ERP)</div>
            </td></tr>
-<tr><td>SHRINKING FACTOR</td><td>99.2% (sha1sum 114.000 -> 911 Bytes )</td></tr>           
+<tr><td>SHRINKING FACTOR</td><td>99.2% (sha1sum 114.000 -> 912 Bytes )</td></tr>           
     <tr><td>WEBSITES</td><td>7 projects, over time</td></tr>
     <tr><td>SUCCESS</td><td>google pagerank 6 (2009)</td></tr>
     <tr><td>ESTIMATED PAGEVIEWS</td><td> &gt; 1 Million over time </td></tr
