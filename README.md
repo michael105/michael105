@@ -29,11 +29,13 @@ Started programming with Basic at an IBM PC(One of those first models,no hd, no 
 Did work with sql, css, html, and so on.<br>
 <br><br>
 DIY Electronics, mainly audio, etched own boards some time ago.<br><br>
-Currently having fun with shrinking binaries, system development with C and Assembler, (size) optimizing algorithms, latency optimized OS development.<br> 
+Having fun with shrinking binaries, system development with C and Assembler, (size) optimizing algorithms, latency optimized OS development.<br> 
 <br>
-Yet all code here is written by me, in person,<br>
-albite I'm using AI to lookup documentation.<br>
+Yet all code here is written by me, in person.<br>
 I mark all ai usage explicitly for several reasons.<br>
+<br>
+Currently I'm somehow fascinated reviving really old C codebases from the 80s and 90s.
+ Sort of a new intellectual riddle.
 <br>
 <!--
 I'd say, until now AI would be able to write some code, <br>
