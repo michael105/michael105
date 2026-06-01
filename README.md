@@ -71,8 +71,8 @@ Assembler, Javascript, sql, Java, python
 <tr><td>SHRINKING FACTOR</td><td>99.2% (sha1sum 114.000 -> 912 Bytes )</td></tr>           
     <tr><td>WEBSITES</td><td>7 projects, over time</td></tr>
     <tr><td>SUCCESS</td><td>google pagerank 6 (2009)</td></tr>
-    <tr><td>ESTIMATED PAGEVIEWS</td><td> &gt; 1 Million over time </td></tr
-        <tr><td>CONTACT<br><small>3 times half of hundred, subtract 3</small></td><td>miscNNN@disroot.org</td>
+    <tr><td>ESTIMATED PAGEVIEWS</td><td> &gt; 1 Million</td></tr
+        <tr><td>CURRENTLY </td><td>Buildin my own compiler. <br>75 %</td>
            </tr>
 </table>
 
