@@ -40,7 +40,7 @@ I'm using AI to get through the specs of all those special cases, but I code man
 <br>
 I'm further using AI to learn some mathematics (I'm bad with formulating mathematically abstract concepts like asymptotes or similarities, I normally use my brain for that) and to repeat some historical and psychological knowledge. Was animated to finally also read Victor Frankl. No I'm healthy, you are just bored, that's all. ^^<br>
 Further I'm trying to puzzle Erlanger constructivism (logic of language, analytical philosophy) together with LLM. Unsuccessful. Maybe we are confronted with something, what is completely outside of normal categories. Eventually, since AI doesn't know reason (nous). However, again according to Frankl, the "noogene Neurose" (being bored) is the cause of all that trouble of humans, so...<br>
-Did learn/repeat some higher physics (string theory) with ai, everyone is enthusiastic, so I'm also writing about imho positive aspects..
+Did learn/repeat some higher physics with ai, everyone is enthusiastic, so I'm also writing about imho positive aspects..
 <!--
 I'd say, until now AI would be able to write some code, <br>
 but looking for hard to find bugs and misconceptions takes <br>more time than writing the code 
