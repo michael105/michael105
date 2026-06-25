@@ -91,6 +91,6 @@ Assembler, Javascript, sql, Java, python
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael105&theme=blue-green&exclude_repo=home,docu-c,libc-manpages,michael105.github.io,weblinks&layout=compact&langs_count=8)
 
 <!-- Trophy (nur Bild) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=michael105&column=4&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=michael105&column=4&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 
 
