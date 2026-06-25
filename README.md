@@ -77,13 +77,15 @@ Assembler, Javascript, sql, Java, python
     <tr><td>WEBSITES</td><td>7 projects, over time</td></tr>
     <tr><td>SUCCESS</td><td>google pagerank 6 (2009)</td></tr>
     <tr><td>ESTIMATED PAGEVIEWS</td><td> &gt; 1 Million</td></tr
-        <tr><td>CURRENTLY </td><td>writing a shell/compiler. <br>Compiler:61% Shell:74% (working: Parser, Lexer, AST, Interpreter, if/while/until..., variables, buitins, alias. 16kB static binary.
+        <tr><td>CURRENTLY </td><td>writing a posix shell/compiler. <br>Compiler:61% Shell:74% (working: Parser, Lexer, AST, Interpreter, if/while/until..., variables, buitins, alias. 16kB static binary.
 </td>
            </tr>
 </table>
 
 
+<! -- 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=michael105&include_all_commits=true&theme=blue-green)
+-->
 
 <!-- Top langs (nur Bild) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael105&theme=blue-green&exclude_repo=home,docu-c,libc-manpages,michael105.github.io,weblinks&layout=compact&langs_count=8)
