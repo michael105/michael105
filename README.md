@@ -75,7 +75,7 @@ Assembler, Javascript, sql, Java, python
     <tr><td>SUCCESS</td><td>google pagerank 6 (2009)</td></tr>
     <tr><td>ESTIMATED PAGEVIEWS</td><td> &gt; 1 Million</td></tr
         <tr><td>CURRENTLY </td><td>writing a shell/compiler. <br>Compiler:61% Shell:74% (working: Parser, Lexer, AST, Interpreter, if/while/until..., variables, buitins, alias. 16kB static binary. <br>
-I'm further using AI to learn some mathematics (I'm bad with formulating mathematically abstract concepts like asymptotes or similarities, I normally use my brain for that) and to repeat some historical and psychological knowledge. Was animated to finally also read Victor Frankl. No I'm healthy, you are just bored, that's all. ^^<br>
+I'm further using AI to learn some mathematics (I'm bad  Was animated to finally also read Victor Frankl. No I'm healthy, you are just bored, that's all. ^^<br>
 Further I'm trying to puzzle Erlanger constructivism (logic of language, analytical philosophy) together with LLM. Unsuccessful. Maybe we are confronted with something, what is completely outside of normal categories. Eventually, since there is no reason (nous)
 </td>
            </tr>
