@@ -1,4 +1,3 @@
-see
 
 <img align="right" height="240px" src="me-320px.png"> 
 
@@ -39,6 +38,8 @@ Currently I'm somehow fascinated reviving really old C codebases from the 80s an
 So I moved on to writing a psoix shell, to realize, I'm writing a 50 year old dinosaur. Many features were specified IMHO, to make an interesting hack with the only job to work somehow a standard. Originally I did believe, I could build a general compiler from that. The parts I'll need to abandon for that again are constantly growing. Well. Funny.<br>
 I'm using AI to get through the specs of all those special cases, but I code manually. Especially with some edge cases the code suggestions of AI yet are not perfect. 
 <br>
+I'm further using AI to learn some mathematics (I'm bad  Was animated to finally also read Victor Frankl. No I'm healthy, you are just bored, that's all. ^^<br>
+Further I'm trying to puzzle Erlanger constructivism (logic of language, analytical philosophy) together with LLM. Unsuccessful. Maybe we are confronted with something, what is completely outside of normal categories. Eventually, since AI doesn't know reason (nous). However, again according to Frankl, the "noogene Neurose" (being bored) is the cause of all that trouble, so...
 <!--
 I'd say, until now AI would be able to write some code, <br>
 but looking for hard to find bugs and misconceptions takes <br>more time than writing the code 
@@ -74,9 +75,7 @@ Assembler, Javascript, sql, Java, python
     <tr><td>WEBSITES</td><td>7 projects, over time</td></tr>
     <tr><td>SUCCESS</td><td>google pagerank 6 (2009)</td></tr>
     <tr><td>ESTIMATED PAGEVIEWS</td><td> &gt; 1 Million</td></tr
-        <tr><td>CURRENTLY </td><td>writing a shell/compiler. <br>Compiler:61% Shell:74% (working: Parser, Lexer, AST, Interpreter, if/while/until..., variables, buitins, alias. 16kB static binary. <br>
-I'm further using AI to learn some mathematics (I'm bad  Was animated to finally also read Victor Frankl. No I'm healthy, you are just bored, that's all. ^^<br>
-Further I'm trying to puzzle Erlanger constructivism (logic of language, analytical philosophy) together with LLM. Unsuccessful. Maybe we are confronted with something, what is completely outside of normal categories. Eventually, since there is no reason (nous)
+        <tr><td>CURRENTLY </td><td>writing a shell/compiler. <br>Compiler:61% Shell:74% (working: Parser, Lexer, AST, Interpreter, if/while/until..., variables, buitins, alias. 16kB static binary.
 </td>
            </tr>
 </table>
