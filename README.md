@@ -1,4 +1,4 @@
-
+see
 
 <img align="right" height="240px" src="me-320px.png"> 
 
@@ -35,7 +35,9 @@ Yet all code here is written by me, in person.<br>
 I mark all ai usage explicitly for several reasons.<br>
 <br>
 Currently I'm somehow fascinated reviving really old C codebases from the 80s and 90s.
- Sort of a new intellectual riddle.
+ Sort of a new intellectual riddle. What got interesting.
+So I moved on to writing a psoix shell, to realize, I'm writing a 50 year old dinosaur. Many features were specified IMHO, to make an interesting hack with the only job to work somehow a standard. Originally I did believe, I could build a general compiler from that. The parts I'll need to abandon for that again are constantly growing. Well. Funny.<br>
+I'm using AI to get through the specs of all those special cases, but I code manually. Especially with some edge cases the code suggestions of AI yet are not perfect. 
 <br>
 <!--
 I'd say, until now AI would be able to write some code, <br>
@@ -72,7 +74,7 @@ Assembler, Javascript, sql, Java, python
     <tr><td>WEBSITES</td><td>7 projects, over time</td></tr>
     <tr><td>SUCCESS</td><td>google pagerank 6 (2009)</td></tr>
     <tr><td>ESTIMATED PAGEVIEWS</td><td> &gt; 1 Million</td></tr
-        <tr><td>CURRENTLY </td><td>writing a compiler. <br>53% (working: Parser, Lexer, AST, 9.5kB static binary. Including interpreter and builtins)</td>
+        <tr><td>CURRENTLY </td><td>writing a shell/compiler. <br>Compiler:61% Shell 74% (working: Parser, Lexer, AST, variables, buitins, alias, 16kB static binary. </td>
            </tr>
 </table>
 
