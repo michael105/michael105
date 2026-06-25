@@ -83,7 +83,7 @@ Assembler, Javascript, sql, Java, python
 </table>
 
 
-<! -- 
+<!-- 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=michael105&include_all_commits=true&theme=blue-green)
 -->
 
