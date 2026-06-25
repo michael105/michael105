@@ -35,7 +35,7 @@ I mark all ai usage explicitly for several reasons.<br>
 <br>
 Currently I'm somehow fascinated reviving really old C codebases from the 80s and 90s.
  Sort of a new intellectual riddle. What got interesting.
-So I moved on to writing a posix shell, to realize, I'm writing a 50 year old dinosaur. Many features were specified IMHO, to make an interesting hack with the only job to work somehow a standard. Originally I did believe, I could build a general compiler from that. The parts I'll need to abandon for that again are constantly growing. Well. Funny.<br>
+So I moved on to writing a posix shell, to realize, I'm writing a 50 year old dinosaur. Many features were specified IMHO, to make an interesting hack with the only job to work somehow a standard. Originally I did believe, I could build a general compiler from that. The parts I'll need to abandon for the compiler are constantly growing. Well. Funny.<br>
 I'm using AI to get through the specs of all those special cases, but I code manually. Especially with some edge cases the code suggestions of AI yet are not perfect. 
 <br>
 I'm further using AI to learn some mathematics (I'm bad with formulating mathematically abstract concepts like asymptotes or similarities, I normally use my brain for that) and to repeat some historical and psychological knowledge. Was animated to finally also read Victor Frankl. Now I'm healthy, you are just bored, that's all. ^^<br>
@@ -82,9 +82,9 @@ Assembler, Javascript, sql, Java, python
            </tr>
 </table>
 
-
+<br><br>
 <!-- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=michael105&include_all_commits=true&theme=blue-green)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=michael105&include_all_commits=true&theme=blue-green&hide-border=true)
 -->
 
 <!-- Top langs (nur Bild) -->
