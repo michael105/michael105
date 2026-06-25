@@ -88,8 +88,10 @@ Assembler, Javascript, sql, Java, python
 -->
 
 <!-- Top langs (nur Bild) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael105&theme=blue-green&exclude_repo=home,docu-c,libc-manpages,michael105.github.io,weblinks&layout=compact&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael105&theme=blue-green&exclude_repo=home,docu-c,libc-manpages,weblinks&layout=compact&langs_count=24&hide=q,Max,Raku,Eiffel,Roff)
 
+<!--
+https://github-readme-stats-xamidi.vercel.app/api/top-langs/?username=michael105&layout=compact&theme=radical&langs_count=24&hide_border=true&hide=q,Max,Raku,Eiffel,Roff -->
 <!-- Trophy (nur Bild) -->
 [![trophy](https://github-trophies.vercel.app/?username=michael105&column=4&row=2&theme=dark_dimmed&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
