@@ -41,6 +41,7 @@ I'm using AI to get through the specs of all those special cases, but I code man
 I'm further using AI to learn some mathematics (I'm bad with formulating mathematically abstract concepts like asymptotes or similarities, I normally use my brain for that) and to repeat some historical and psychological knowledge. Was animated to finally also read Victor Frankl. Now I'm healthy, you are just bored, that's all. ^^<br>
 Further I'm trying to puzzle Erlanger constructivism (logic of language, analytical philosophy) together with LLM. Unsuccessful. Maybe we are confronted with something, what is completely outside of normal categories. Eventually, since AI doesn't know reason (nous). However, again according to Frankl, the "noogene Neurose" (reason being bored) is the cause of all that trouble of humans, so...<br>
 Did learn/repeat some higher physics with ai, everyone is enthusiastic, so I'm also writing about imho positive aspects..
+<br>
 <!--
 I'd say, until now AI would be able to write some code, <br>
 but looking for hard to find bugs and misconceptions takes <br>more time than writing the code 
@@ -68,7 +69,7 @@ Assembler, Javascript, sql, Java, python
            <tr><td>PREFERRED LANGUAGES</td><td>C, Perl, Assembler</td></tr>
            <tr><td>OPENSOURCE ENGAGEMENT</td><td>25 years<br><small></small></td></tr>
            <tr><td>PUBLISHED PROJECTS</td><td>&gt; 75</td></tr>
-<tr><td>STARS</td><td>229</td></tr>
+<tr><td>STARS</td><td>331</td></tr>
            <tr><td>CODE RELIABILITY</td><td>99,993% / 15.000:1 (best value),<br>minilib, ~ 30.000 LOC, 1 vulnerability (Codacy Codescan), 1 Heisenbug </td></tr>
            <tr><td>REFACTORING PERFORMANCE</td><td>5000 (50.000 -> 40.000 LOC, result of adding 2 modules to a commercial CRM/ERP)</div>
            </td></tr>
