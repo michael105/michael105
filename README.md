@@ -77,7 +77,7 @@ Assembler, Javascript, sql, Java, python
     <tr><td>WEBSITES</td><td>7 projects, over time</td></tr>
     <tr><td>SUCCESS</td><td>google pagerank 6 (2009)</td></tr>
     <tr><td>ESTIMATED PAGEVIEWS</td><td> &gt; 1 Million</td></tr
-        <tr><td>CURRENTLY </td><td>writing a posix shell/compiler. <br>Compiler:61% Shell:77% (working: Parser, Lexer, AST, Interpreter, if/while/until/for, ||,&&, variables, builtins, alias. 16kB static binary.
+        <tr><td>CURRENTLY </td><td>writing a posix shell/compiler. <br>Compiler:61% Shell:77% (working: Parser, Lexer, AST, Interpreter, if/while/until/for, ||,&&, variables, builtins, alias. 16kB static binary. (8 Bytes per regular node) 
 </td>
            </tr>
 </table>
